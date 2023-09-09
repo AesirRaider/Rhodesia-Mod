@@ -1,0 +1,10 @@
+[
+  {
+    "name":"Rhodesia",
+    "leaderName":"Ian Smith",
+    "adjective":"Rhodesian",
+    "startBias":["Plains"],
+    "preferredVictoryType":"Diplomatic",
+
+    "startIntroPart1":"Greetings prime minister, we have managed to establish our republic after British rule. However, we lack the recognition from other states,and we are facing a potential insurgency in the future.",
+    "startIntroPart2"
