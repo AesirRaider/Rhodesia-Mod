@@ -2,7 +2,7 @@
   {
     "name":"Rhodesia",
     "leaderName":"Ian Smith",
-    "adjective":"Rhodesian",
+    "adjective":["Rhodesian"],
     "startBias":["Plains"],
     "preferredVictoryType":"Diplomatic",
 
@@ -20,9 +20,9 @@
     "neutralYes":["This can work.","I can accept this deal","I can agree to this"],
 
     "hateHello":"What now!?",
-    "hateLetsHearIt":["What is it this time!?","Make this quick."],
-    "hateNo":["I can not accept this!","This deal is outrageous!","I can't begin to think about the idea fo accepting this!"],
-    "hateYes":["Fine, for just this once...","For the people's betterment, I will agree to this."],
+    "hateLetsHearIt":["What is it this time!?","Make this quick.","What!?"],
+    "hateNo":["I can not accept this!","This deal is outrageous!","I can't begin to think about the idea of accepting this!"],
+    "hateYes":["Fine, for just this once...","For the people's betterment, I will agree to this.","I will accept this one time..."],
 
     "afterPeace":"I hope you will learn from this.",
     "tradeRequest":"I propose a trade deal.",
