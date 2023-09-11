@@ -9,3 +9,26 @@
     "startIntroPart1":"Greetings prime minister, we have managed to establish our republic after British rule. However, we lack the recognition from other states,and we are facing a potential insurgency in the future.",
     "startIntroPart2":"Rhodesia needs you, lead us to salvation!",
     
+    "declaringWar":"Your harboring of rebels is threatening the safety of our republic, and it must be stopped!",
+    "attacked":"You'll pay for this attack!",
+    "defeated":"May God bless us through these dark times...",
+    "introduction":"Greetings, I am Ian Smith of the Republic of Rhodesia.",
+
+    "neutralHello":"Hello!",
+    "neutralLetsHearIt":["Yes?","Is there something you wish to discuss?"],
+    "neutralNo":["I can't agree to this.","I can't accept this deal.","I'm afraid I have to decline"],
+    "neutralYes":["This can work.","I can accept this deal","I can agree to this"],
+
+    "hateHello":"What now!?",
+    "hateLetsHearIt":["What is it this time!?","Make this quick."],
+    "hateNo":["I can not accept this!","This deal is outrageous!"],
+    "hateYes":["Fine, for just this once...","For the people's betterment, I will agree to this."],
+
+    "afterPeace":"I hope you will learn from this.",
+    "tradeRequest":"I propose a trade deal.",
+
+    "outerColor":[255,255,255],
+    "innerColor":[62,104,54],
+    "unique":"PLACEHOLDER_TEXT"
+    "cities":["Salisbury","Bulawayo","Chitungwiza","Unmtali","Gwelo","Que Que","Gatooma","Ruwa","Sinoia","Fort Victoria"]
+    
