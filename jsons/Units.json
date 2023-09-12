@@ -1,0 +1,28 @@
+[
+  {
+    "name":"Rhodesian Light Infantry"
+    "unitType":"Gunpowder"
+    "replaces":"Paratrooper"
+    "uniqueTo":"Rhodesia"
+    "movement":3
+    "strength":80
+    "cost":400
+    "requiredTech":"Radar"
+    "uniques":["All tiles cost [1] to move", "[+25]% <when fighting in foreign tiles>","May Paradrop up to [8] tiles from inside friendly territory"]
+    "attackSound":"shot"
+
+    "name":"Rhodesian SAS"
+    "unitType":"Gunpowder"
+    "uniqueTo":"Rhodesia"
+    "movement":4
+    "strength":90
+    "cost":425
+    "requiredTech":"Radar"
+    "uniques":["[+50]% <when fighting in foreign tiles>","May Paradrop up to [10] tiles from inside friendly territory","Invisible to non-adjacent units"]
+    "attackSound":"shot"
+
+    
+
+    
+    
+    
