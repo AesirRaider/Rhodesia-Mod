@@ -1,28 +1,76 @@
 [
   {
-    "name":"Rhodesian Light Infantry"
-    "unitType":"Gunpowder"
-    "replaces":"Paratrooper"
+    "name":"Rhodesian Light Infantry",
+    "unitType":"Gunpowder",
+    "replaces":"Paratrooper",
+    "uniqueTo":"Rhodesia",
+    "movement":3,
+    "strength":80,
+    "cost":400,
+    "requiredTech":"Radar",
+    "uniques":["All tiles cost [1] to move", "[+25]% <when fighting in foreign tiles>",
+      "May Paradrop up to [8] tiles from inside friendly territory","Never appears as a Barbarian unit"],
+    "attackSound":"shot",
+
+    "name":"Rhodesian SAS",
+    "unitType":"Gunpowder",
+    "uniqueTo":"Rhodesia",
+    "movement":4,
+    "strength":90,
+    "cost":450,
+    "requiredTech":"Radar",
+    "uniques":["[+50]% <when fighting in foreign tiles>","May Paradrop up to [10] tiles from inside friendly territory",
+      "Invisible to non-adjacent units","Never appears as a Barbarian unit"],
+    "attackSound":"shot",
+
+    "name":"Rhodesian African Rifles",
+    "replaces":"Rifleman",
+    "unitType":"Gunpowder",
+    "uniqueTo":"Rhodesia",
+    "movement":2,
+    "strength":70,
+    "cost":300,
+    "requiredTech":"Rifling",
+    "promotions":["Drill I","Drill II"],
+
+    "name":"Security Force Auxillaries",
+    "unitType":"Gunpowder",
+    "uniqueTo":"Rhodesia",
+    "movement":2,
+    "strength":50,
+    "cost":250,
+    "requiredTech":"Rifling",
+    "uniques":["All adjacent units heal [+15] HP when healing", "Can move immediately once bought"],
+
+    "name":"FGA9",
+    "replaces":"Fighter",
+    "unitType":"Fighter",
+    "uniqueTo":"Rhodesia",
+    "movement":1,
+    "strength":75,
+    "cost":475,
+    "requiredTech":"Radar",
+    "requiredResource":"Oil",
+    "uniques":["[100]% chance to intercept air attacks","[+175]% Strength <vs [Bomber] units>","[+175]% Strength <vs [Helicopter] units>"],
+
+    "name":"FB9",
+    "replaces":"Jet Fighter",
+    "unitType":"Fighter",
+    "uniqueTo":"Rhodesia",
+    "movement":1,
+    "strength":90,
+    "cost":500,
+    "requiredTech":"Lasers"
+    "requiredResource":"Aluminum"
+    "uniques":["[100]% chance to intercept air attacks","[+200]% Strength ,vs [Bomber] units>","[+200]% Strength <vs [Helicopter] units>"]
+
+    "name":"Cessna Lynx"
+    "replaces":"Bomber"
+    "unitType":"Bomber"
     "uniqueTo":"Rhodesia"
-    "movement":3
-    "strength":80
-    "cost":400
+    "movement":1
+    "strength":85
+    "cost":475
     "requiredTech":"Radar"
-    "uniques":["All tiles cost [1] to move", "[+25]% <when fighting in foreign tiles>","May Paradrop up to [8] tiles from inside friendly territory"]
-    "attackSound":"shot"
-
-    "name":"Rhodesian SAS"
-    "unitType":"Gunpowder"
-    "uniqueTo":"Rhodesia"
-    "movement":4
-    "strength":90
-    "cost":425
-    "requiredTech":"Radar"
-    "uniques":["[+50]% <when fighting in foreign tiles>","May Paradrop up to [10] tiles from inside friendly territory","Invisible to non-adjacent units"]
-    "attackSound":"shot"
-
-    
-
-    
-    
-    
+    "requiredResource":"Oil"
+    "uniques":["[+100]% Strength <vs [Land] units>"]
