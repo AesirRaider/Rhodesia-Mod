@@ -15,7 +15,7 @@
     "introduction":"Greetings, I am prime minister, Ian Smith, of the Republic of Rhodesia.",
 
     "neutralHello":"Hello!",
-    "neutralLetsHearIt":["Yes?","Is there something you wish to discuss?"],
+    "neutralLetsHearIt":["Yes?","Is there something you wish to discuss?","You wish to speak to me?"],
     "neutralNo":["I can't agree to this.","I can't accept this deal.","I'm afraid I have to decline"],
     "neutralYes":["This can work.","I can accept this deal","I can agree to this"],
 
@@ -29,9 +29,9 @@
 
     "outerColor":[255,255,255],
     "innerColor":[62,104,54],
-    "uniqueName":"White Rhodesia",
-    "uniques":["[-2 Happiness][in all cities]","[+25]% <when fighting in friendly territory>","[+2 Gold] <in all cities>"],
-    "cities":["Salisbury","Bulawayo","Chitungwiza","Unmtali","Gwelo","Que Que","Gatooma","Ruwa","Sinoia","Fort Victoria"],
+    "uniqueName":"Rhodesians Never Die",
+    "uniques":["[+2 Happiness][in all cities]","[+25]% <when fighting> <in friendly territory>","[+2 Gold] <in all cities>"],
+    "cities":["Salisbury","Bulawayo","Chitungwiza","Unmtali","Gwelo","Que Que","Gatooma","Ruwa","Sinoia","Fort Victoria","Norton","Marandellas","Hartley","Shabani"],
   }
 ]
 
