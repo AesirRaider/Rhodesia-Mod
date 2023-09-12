@@ -29,7 +29,8 @@
 
     "outerColor":[255,255,255],
     "innerColor":[62,104,54],
-    "unique":"PLACEHOLDER_TEXT",
+    "uniqueName":"White Rhodesia",
+    "uniques":["[-2 Happiness][in all cities]","[+25]% <when fighting in friendly territory>","[+2 Gold] <in all cities>"],
     "cities":["Salisbury","Bulawayo","Chitungwiza","Unmtali","Gwelo","Que Que","Gatooma","Ruwa","Sinoia","Fort Victoria"],
   }
 ]
