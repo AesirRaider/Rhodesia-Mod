@@ -48,6 +48,8 @@
     "uniqueTo":"Rhodesia",
     "movement":1,
     "strength":75,
+    "rangedStrength":80,
+    "range":8,
     "cost":475,
     "requiredTech":"Radar",
     "requiredResource":"Oil",
@@ -59,18 +61,34 @@
     "uniqueTo":"Rhodesia",
     "movement":1,
     "strength":90,
+    "rangedStrength":100,
+    "range":10,
     "cost":500,
     "requiredTech":"Lasers"
     "requiredResource":"Aluminum"
     "uniques":["[100]% chance to intercept air attacks","[+200]% Strength ,vs [Bomber] units>","[+200]% Strength <vs [Helicopter] units>"]
 
-    "name":"Cessna Lynx"
-    "replaces":"Bomber"
-    "unitType":"Bomber"
-    "uniqueTo":"Rhodesia"
+    "name":"Cessna Lynx",
+    "replaces":"Bomber",
+    "unitType":"Bomber",
+    "uniqueTo":"Rhodesia",
     "movement":1
     "strength":85
+    "rangedStrength":95
+    "range":8
     "cost":475
     "requiredTech":"Radar"
     "requiredResource":"Oil"
     "uniques":["[+100]% Strength <vs [Land] units>"]
+
+    "name":"Canberra"
+    "replaces":"Stealth Bomber"
+    "uniqueTo":"Rhodesia"
+    "movement":1
+    "sterngth":95
+    "rangedStrength":105
+    "range":20
+    "cost":500
+    "requiredTech":"Stealth"
+    "requiredResource":"Aluminum"
+    "uniques":["Can see over obstacles","Damage from interception reduced by [100]%","[+4] Sight","[+150]% Strength <vs [Land] units>"]
