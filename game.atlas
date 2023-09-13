@@ -1,9 +1,16 @@
 
 NationIcon/Rhodesia
 rotate: false
-xy: 10, 0
+xy: 4, 4
 size: 95, 68
 orig: 95, 68
 offset: 0, 0
 index: -1
 
+LeaderIcon/Ian Douglas Smith
+rotate:false
+xy: 2, 2
+size: 150, 205
+orig: 150, 205
+offset: 0, 0
+index: -1
