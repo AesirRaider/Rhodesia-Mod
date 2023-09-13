@@ -1,8 +1,9 @@
 
 NationIcon/Rhodesia
 rotate: false
-xy: 0, 0
+xy: 10, 0
 size: 95, 68
 orig: 95, 68
 offset: 0, 0
 index: -1
+
