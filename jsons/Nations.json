@@ -1,7 +1,7 @@
 [
   {
     "name":"Rhodesia",
-    "leaderName":"Ian Smith",
+    "leaderName":"Ian Douglas Smith",
     "adjective":["Rhodesian"],
     "startBias":["Plains"],
     "preferredVictoryType":"Diplomatic",
@@ -14,7 +14,7 @@
     "defeated":"May God bless us through these dark times...",
     "introduction":"Greetings, I am prime minister, Ian Smith, of the Republic of Rhodesia.",
 
-    "neutralHello":"Hello!",
+    "neutralHello":"Greetings.",
     "neutralLetsHearIt":["Yes?","Is there something you wish to discuss?","You wish to speak to me?"],
     "neutralNo":["I can't agree to this.","I can't accept this deal.","I'm afraid I have to decline"],
     "neutralYes":["This can work.","I can accept this deal","I can agree to this"],
