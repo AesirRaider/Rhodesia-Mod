@@ -1,4 +1,8 @@
-
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 NationIcon/Rhodesia
 rotate: false
 xy: 4, 4
@@ -9,8 +13,29 @@ index: -1
 
 LeaderIcon/Ian Douglas Smith
 rotate:false
-xy: 2, 2
+xy: 100, 100
 size: 150, 205
 orig: 150, 205
+offset: 0, 0
+index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Rhodesian Light Infantry
+rotate: false
+xy: 0, 0
+size: 200, 200
+orig: 200, 200
+offset: 0, 0
+index: -1
+
+UnitIcons/Rhodesian SAS
+rotate: false
+xy:100,100
+size: 200, 200
+orig: 200, 200
 offset: 0, 0
 index: -1
