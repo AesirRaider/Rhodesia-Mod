@@ -1,2 +1,2 @@
 # Rhodesia-Mod
-Mod where the Republic of Rhodesia is added into the game
+Mod where Rhodesia is added into the game
