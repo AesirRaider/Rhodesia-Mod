@@ -85,10 +85,20 @@
     "replaces":"Stealth Bomber"
     "uniqueTo":"Rhodesia"
     "movement":1
-    "sterngth":95
+    "strength":95
     "rangedStrength":105
     "range":20
     "cost":500
     "requiredTech":"Stealth"
     "requiredResource":"Aluminum"
     "uniques":["Can see over obstacles","Damage from interception reduced by [100]%","[+4] Sight","[+150]% Strength <vs [Land] units>"]
+
+    "name":"Alouette II",
+    "unitType":"Helicopter",
+    "uniqueTo":"Rhodesia",
+    "movement":6
+    "cost":300
+    "requiredTech":"Radar"
+    "requiredResource":"Aluminum"
+    "uniques":["Cannot attack", "Can carry [4] [Gunpowder] units"]
+    
