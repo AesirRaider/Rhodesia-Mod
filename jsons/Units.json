@@ -66,7 +66,7 @@
     "cost":500,
     "requiredTech":"Lasers"
     "requiredResource":"Aluminum"
-    "uniques":["[100]% chance to intercept air attacks","[+200]% Strength ,vs [Bomber] units>","[+200]% Strength <vs [Helicopter] units>"]
+    "uniques":["[100]% chance to intercept air attacks","[+200]% Strength <vs [Bomber] units>","[+200]% Strength <vs [Helicopter] units>"]
 
     "name":"Cessna Lynx",
     "replaces":"Bomber",
@@ -100,5 +100,5 @@
     "cost":300
     "requiredTech":"Radar"
     "requiredResource":"Aluminum"
-    "uniques":["Cannot attack", "Can carry [4] [Gunpowder] units"]
+    "uniques":["Cannot attack", "Can carry [4] [Gunpowder] units","All tiles cost [1] movement"]
     
